@@ -54,7 +54,7 @@
         android:id="@+id/textView41"
         android:layout_width="250dp"
         android:layout_height="57dp"
-        android:text="https://github.com/NicolaasGeldenhuys/QueezyApp"
+        android:text="https://github.com/NicolaasGeldenhuys/Queezy-v3.0"
         android:textAlignment="center"
         android:textColor="@color/dark"
         android:textStyle="bold|italic"

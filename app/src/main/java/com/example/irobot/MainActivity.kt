@@ -26,6 +26,7 @@ class MainActivity : AppCompatActivity() {
 
             val toast = Toast.makeText(this, "Last User: $lastUser ($lastResult)",Toast.LENGTH_LONG)
             toast.show()
+
         }
 
         binding.btnStart.setOnClickListener {
