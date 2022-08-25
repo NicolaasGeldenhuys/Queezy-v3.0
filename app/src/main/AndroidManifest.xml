@@ -13,18 +13,23 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.IRobot"
         tools:targetApi="31">
+
         <activity
             android:name=".question3"
             android:exported="false" />
+
         <activity
             android:name=".question2"
             android:exported="false" />
+
         <activity
             android:name=".Categories"
             android:exported="false" />
+
         <activity
             android:name=".settings"
             android:exported="true" />
+
         <activity
             android:name=".splash_screen"
             android:exported="true">
@@ -34,16 +39,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <activity
             android:name=".ResultActivity"
             android:exported="false" />
-        <!--
-            //Where intentfilter is what activity is shown as long as exported is true on that
-        activity and false on the others and chosen activity to show is replaced with /> is replaced </activity>
-        -->
+
         <activity
             android:name=".questionActivity"
             android:exported="true" />
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
@@ -55,6 +59,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
     </application>
 
 </manifest>

@@ -10,7 +10,7 @@ class splash_screen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash_screen)
 
-        // we used the postDelayed(Runnable, time) method
+        // used the postDelayed(Runnable, time) method
         // to send a message with a delayed time.
         Handler().postDelayed({
             val intent = Intent(this, MainActivity::class.java)
@@ -19,6 +19,5 @@ class splash_screen : AppCompatActivity() {
         }, 3000) // 3000 is the delayed time in milliseconds.
 
         supportActionBar?.hide()
-
     }
 }

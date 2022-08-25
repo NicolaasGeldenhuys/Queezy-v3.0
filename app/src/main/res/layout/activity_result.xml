@@ -5,17 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="center"
-
-
     android:background="@color/white"
     android:orientation="vertical"
-    tools:context=".ResultActivity"
-
-    >
-    <!--"" Add styling above, and then add the rest-->
-    <!--"" Add styling and linearlayout-->
-    <!--"" After Styling go to result kt and set bindings!-->
-
+    tools:context=".ResultActivity">
 
     <ImageView
         android:id="@+id/imageView9"
@@ -103,25 +95,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/imageView9" />
 
-<!--    <TextView-->
-<!--        android:id="@+id/textView8"-->
-<!--        android:layout_width="match_parent"-->
-<!--        android:layout_height="wrap_content"-->
-<!--        android:layout_marginTop="4dp"-->
-<!--        android:layout_marginBottom="15dp"-->
-<!--        android:paddingTop="10dp"-->
-<!--        android:text="New Highscore"-->
-<!--        android:textAlignment="center"-->
-<!--        android:textColor="@color/black"-->
-<!--        android:textSize="14sp"-->
-<!--        app:layout_constraintBottom_toBottomOf="@+id/imageView9"-->
-<!--        app:layout_constraintEnd_toEndOf="parent"-->
-<!--        app:layout_constraintHorizontal_bias="0.0"-->
-<!--        app:layout_constraintStart_toStartOf="parent"-->
-<!--        app:layout_constraintTop_toTopOf="@+id/imageView9"-->
-<!--        app:layout_constraintVertical_bias="1.0"-->
-<!--        android:fontFamily="@font/pacifico"/>-->
-
     <TextView
         android:id="@+id/tv_results"
         android:layout_width="157dp"
@@ -174,6 +147,5 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView9"
         app:strokeColor="@color/black"
         app:strokeWidth="2dp" />
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

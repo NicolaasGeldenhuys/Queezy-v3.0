@@ -15,9 +15,7 @@ class Categories : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-
         binding = ActivityCategoriesBinding.inflate(layoutInflater)
-
         setContentView(binding.root)
 
         val username = intent.getStringExtra("username").toString()
@@ -27,68 +25,41 @@ class Categories : AppCompatActivity() {
         binding.textView11.text = finalScore.toString()
         binding.textView17.text = finalScore.toString()
         binding.textView28.text = finalScore.toString()
-
         binding.imageView19.setOnClickListener {
-// imageview 19 too!
+
             val intent = Intent(this, questionActivity::class.java)
-
             intent.putExtra("username", username.toString())
-
             startActivity(intent)
         }
 
         binding.imageView21.setOnClickListener {
-// imageview 19 too!
             val intent = Intent(this, question2::class.java)
-
             intent.putExtra("username", username.toString())
-
             startActivity(intent)
         }
 
         binding.imageView25.setOnClickListener {
-// imageview 19 too!
             val intent = Intent(this, question3::class.java)
-
             intent.putExtra("username", username.toString())
-
             startActivity(intent)
         }
 
 // Settings
         binding.imageView15.setOnClickListener {
-
             val intent = Intent(this, settings::class.java)
-
             var snackbar =  Snackbar.make(it, "Highscores Reset", Snackbar.LENGTH_LONG)
             snackbar.setAction("Ok") {
             }
             snackbar.show()
-
             intent.putExtra("finalScore", finalScore)
-
             startActivity(intent)
         }
 
         // Back
         binding.imageView14.setOnClickListener {
-
             val intent = Intent(this, MainActivity::class.java)
-
             startActivity(intent)
         }
-
-
     }
-
-//    private fun updateUI(username: String){
-//
-//
-//            binding.tvQuestionText.text = "Welcome ${username}! Your first question is: ${currentQuestion.questionText}"
-//
-//
-//
-//
-//        }
 
 }

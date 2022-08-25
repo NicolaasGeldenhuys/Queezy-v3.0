@@ -7,8 +7,6 @@
     android:background="@color/white"
     tools:context=".questionActivity">
 
-    <!-- add id to textview, in this case we said tv for text view_question_text -->
-
     <com.google.android.material.button.MaterialButton
         android:id="@+id/btn_next"
         android:layout_width="350dp"
@@ -50,11 +48,6 @@
         app:layout_constraintVertical_bias="0.0"
         app:strokeColor="@color/black"
         app:strokeWidth="2dp">
-
-        <!--""5 Progress bar adding!-->
-
-        <!--            ""6 Next Go to question activity kt to capture results and show final score and pass score-->
-
 
         <ProgressBar
             android:id="@+id/pb_line"
@@ -138,7 +131,6 @@
                 android:textColor="@color/white"
                 android:textSize="21dp" />
 
-
         </RadioGroup>
 
     </com.google.android.material.card.MaterialCardView>
@@ -174,31 +166,5 @@
         app:layout_constraintStart_toEndOf="@+id/textView13"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.598" />
-
-    <!--    <ImageView-->
-    <!--        android:id="@+id/iv_icon"-->
-    <!--        android:layout_width="372dp"-->
-    <!--        android:layout_height="318dp"-->
-    <!--        android:layout_gravity="end"-->
-    <!--        android:layout_marginEnd="300dp"-->
-    <!--        android:layout_marginBottom="452dp"-->
-    <!--        android:src="@drawable/ic_lemon1"-->
-    <!--        app:layout_constraintBottom_toBottomOf="parent"-->
-    <!--        app:layout_constraintEnd_toEndOf="parent"-->
-    <!--        app:layout_constraintStart_toStartOf="parent"-->
-    <!--        app:layout_constraintTop_toTopOf="parent" />-->
-
-    <!--    <ImageView-->
-    <!--        android:id="@+id/iv_icon2"-->
-    <!--        android:layout_width="419dp"-->
-    <!--        android:layout_height="256dp"-->
-    <!--        android:layout_gravity="end"-->
-    <!--        android:layout_marginStart="-190dp"-->
-    <!--        android:layout_marginTop="-40dp"-->
-    <!--        android:src="@drawable/ic_lemon2"-->
-    <!--        app:layout_constraintBottom_toBottomOf="parent"-->
-    <!--        app:layout_constraintEnd_toEndOf="parent"-->
-    <!--        app:layout_constraintStart_toEndOf="@+id/materialCardView"-->
-    <!--        app:layout_constraintTop_toBottomOf="@+id/materialCardView" />-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>

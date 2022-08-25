@@ -7,14 +7,6 @@
     android:background="@color/white"
     android:gravity="center"
     tools:context=".MainActivity">
-    <!--    //This is essentially the entire form a.k.a body tag in HTMl-->
-    <!--    //Change everything from androidx.constraints... to just before xmlns: etc to linearlayout, as well as closing tag at the bottom, try changing that first!-->
-    <!--    //Change android:orientation to vertical, make it horizontal to align elements next to each other as long as widht and height of element is wrap content-->
-    <!--    //Add padding and use dp!-->
-    <!--    //Add Gravity Center to have content centered to screen completely-->
-
-    <!--    "" 36 After adding floatingaction button got main acitivity kt for 37""-->
-
 
     <TextView
         android:id="@+id/textView"
@@ -29,19 +21,6 @@
         app:layout_constraintStart_toStartOf="@+id/imageView3"
         app:layout_constraintTop_toTopOf="@+id/imageView3" />
 
-    <!--  Add all these to add an image and add image file into drawable folder  -->
-    <!--    //For textview manual way, add <TextView></TextView> and add width and height, in this case wrap content should be height and width match parent-->
-    <!--    //Add textalignment center to make text centered-->
-
-
-    <!--Add text input layout material UI and then textinputedit inside that-->
-
-    <!--Add material UI button below-->
-
-    <!--            // !! 2.Give button an id-->
-    <!--            // !! Do take notice that if you use constraints/design sheet to make components it automatically gets assigned an id and other values-->
-    <!--            // !! 3.Now go back to main activity.kt-->
-
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab_info"
         android:layout_width="wrap_content"
@@ -51,12 +30,14 @@
         android:layout_marginBottom="20dp"
         android:backgroundTint="@color/white"
         android:contentDescription="Last User"
-        android:src="@drawable/ic_leaderboard"
+        android:src="@drawable/lastplayer"
         app:borderWidth="0dp"
         app:layout_constraintBottom_toTopOf="@+id/imageView5"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.872"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView4" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"
+        app:layout_constraintVertical_bias="0.581" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -144,17 +125,19 @@
         android:id="@+id/btn_start"
         android:layout_width="280dp"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/pacifico"
         android:text="@string/buttonStart"
         android:textAllCaps="false"
         android:textColor="@color/black"
         android:textSize="16sp"
-        android:fontFamily="@font/pacifico"
         app:backgroundTint="@color/primary"
         app:cornerRadius="40dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.508"
         app:layout_constraintStart_toStartOf="@+id/imageView5"
         app:layout_constraintTop_toBottomOf="@+id/et_username"
+        app:layout_constraintVertical_bias="0.243"
         app:strokeColor="@color/black"
         app:strokeWidth="2dp" />
 
@@ -223,11 +206,4 @@
         app:layout_constraintTop_toTopOf="@+id/imageView5"
         app:layout_constraintVertical_bias="0.444" />
 
-
-
-
-
-
-<!--    //add materialcardview from Google Material UI with end tag and add attributes like above-->
-<!--    //add linearlayout with end tag and attributes like above for card and make sure all components like textview in this case are under and in between these other elements.-->
 </androidx.constraintlayout.widget.ConstraintLayout>

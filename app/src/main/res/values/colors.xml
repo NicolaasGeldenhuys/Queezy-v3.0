@@ -8,11 +8,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
-
     <color name="primary">#FECE00</color>
     <color name="dark">#101010</color>
     <color name="green">#73C8A7</color>
-
     <color name="tint">#FFFFFF</color>
     <color name="success">#7BFFB8</color>
     <color name="error">#FF937B</color>
