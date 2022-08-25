@@ -3,13 +3,13 @@
 <!-- Repository Information & Links-->
 <br />
 
-![37.0MB](https://img.shields.io/github/repo-size/username/projectname?color=%000000)
-![1](https://img.shields.io/github/watchers/username/projectname?color=%000000)
-![1](https://img.shields.io/github/languages/count/username/projectname?color=%000000)
-![37000KB](https://img.shields.io/github/languages/code-size/username/projectname?color=%000000)
+![repo size](https://img.shields.io/github/repo-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
+![watchers](https://img.shields.io/github/watchers/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
+![languages](https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
+![code size](https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
-[![Test][behance-shield]][behance-url]
+[![Behance][behance-shield]][behance-url]
 
 <!-- HEADER SECTION -->
 <h5 align="center" style="padding:0;margin:0;">Nicolaas Geldenhuys</h5>
@@ -19,7 +19,7 @@
 <p align="center">
 
   <a href="https://github.com/NicolaasGeldenhuys/Queezy-v3.0">
-    <img src="path/to/logo" alt="Logo" width="140" height="140">
+    <img src="C:\Users\neill\Documents\GitHub\Lemon_Default.png" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Squeezy</h3>
@@ -253,8 +253,8 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 <!-- LICENSE -->
 ## Contact
 
-* **Your Name & Surname** - [email@address](mailto:email@address) - [@instagram_handle](https://www.instagram.com/instagram_handle/) 
-* **Project Link** - https://github.com/username/projectname
+* **Nicolaas Geldenhuys** - [neill9704@gmail.com](mailto:email@address) - [@neillgeldenhuys](https://www.instagram.com/neillgeldenhuys/) 
+* **Project Link** - https://github.com/NicolaasGeldenhuys/Queezy-v3.0
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
