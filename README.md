@@ -1,7 +1,7 @@
-![repo size](https://img.shields.io/github/repo-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
-![watchers](https://img.shields.io/github/watchers/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
-![languages](https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
-![code size](https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
+![GitHub repo size](https://img.shields.io/github/repo-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
+![GitHub watchers](https://img.shields.io/github/watchers/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
+![GitHub languages](https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
+![GitHub code size](https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
 
@@ -134,7 +134,6 @@ The `Conceptual Process` is the set of actions, activities and research that was
 
 ### Ideation
 
-<br>
 ![image6][image6]
 
 ### Wireframes
