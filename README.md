@@ -1,16 +1,10 @@
-<!-- REPLACE ALL THE [USERNAME] TEXT WITH YOUR GITHUB PROFILE NAME & THE [PROJECTNAME] WITH THE NAME OF YOUR GITHUB PROJECT -->
-
-<!-- Repository Information & Links-->
-<br />
-
 ![repo size](https://img.shields.io/github/repo-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
 ![watchers](https://img.shields.io/github/watchers/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
 ![languages](https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
 ![code size](https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 [![Instagram][instagram-shield]][instagram-url]
-[![Behance][behance-shield]][behance-url]
+
 
 <!-- HEADER SECTION -->
 <h5 align="center" style="padding:0;margin:0;">Nicolaas Geldenhuys</h5>
@@ -75,7 +69,11 @@
 
 ### Project Description
 
-A nice introduction to this amazing project of mine.
+Squeezy is the ultimate food quiz! 
+Think you’re the ultimate foodie? Prove it!<br>
+
+Squeezy is an entertainment gamified application
+built to test user’s knowledge of food across the globe. <br> Squeezy has multiple different categories upon which its questions are based. <br> These answers are updated on a highscore system as well as based on a profile system showing the score of each previous user.
 
 ### Built With
 
@@ -89,7 +87,7 @@ The following instructions will get you a copy of the project up and running on 
 
 ### Prerequisites
 
-Ensure that you have the latest version of [Squeezy](C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Assets\App Apk) installed on your machine. The [Plugin](path/to/where/they/can/download/plugin) plugin will also be required.
+Ensure that you have the latest version of [Squeezy](https://drive.google.com/file/d/1TzRHoLd3U7Ljl10jp0sD4gwb6egn7Ax_/view?usp=sharing) installed on your machine. The [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLtXnalYPKA462mNMG3JzkWKuy4oEruVkWt0e6ptWFNIPmLXW3hryehoCAoAQAvD_BwE&gclsrc=aw.ds) plugin will also be required.
 
 ### How to install
 
@@ -107,23 +105,11 @@ Run the following in the command-line to clone the project:
    ```
     Open `Software` and select `File | Open...` from the menu. Select cloned directory and press `Open` button
 
-3. Install Dependencies </br>
-Run the following in the command-line to install all the required dependencies:
-   ```sh
-   npm install
-   ```
-
-4. Get a free API Key at [https://example.com.Squeezy](https://example.com.Squeezy) and enter it in the `config.js` file:
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-
 <!-- FEATURES AND FUNCTIONALITY-->
 <!-- You can add the links to all of your imagery at the bottom of the file as references -->
 ## Features and Functionality
 
-![image2][C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_1.png]
+![image2][image2]
 ### Feature 1
 
 Multiple Categories with different context.
@@ -266,10 +252,10 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[image1]: C:/Users/neill/Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_1.png
-[image2]: C:/Users/neill/Desktop/NicolaasGeldenhuys_21100407_Android203_Promotional_Material_4.png
-[image3]: C:/Users/neill/Desktop/NicolaasGeldenhuys_21100407_Android203_Promotional_Material_2.png
-[image4]: C:/Users/neill/Desktop/NicolaasGeldenhuys_21100407_Android203_Promotional_Material_3.png
+[image1]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/Screenshot%201.jpg
+[image2]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/Screenshot%202.jpg
+[image3]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_2.png
+[image4]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_3.png
 [image5]: /path/to/image.png
 [image6]: /path/to/image.png
 [image7]: /path/to/image.png
@@ -283,7 +269,3 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 [linkedin-url]: https://www.linkedin.com/in/nameonlinkedin/neill-geldenhuys-8619b7233
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&colorB=555
 [instagram-url]: https://www.instagram.com/instagram_handle/neillgeldenhuys
-[behance-shield]: https://img.shields.io/badge/-Behance-black.svg?style=flat-square&logo=behance&colorB=555
-[behance-url]: https://www.behance.net/name-on-behance/
-
-
