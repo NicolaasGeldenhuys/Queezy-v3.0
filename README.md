@@ -8,6 +8,7 @@
 ![languages](https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
 ![code size](https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 [![Instagram][instagram-shield]][instagram-url]
 [![Behance][behance-shield]][behance-url]
 
@@ -79,9 +80,7 @@ A nice introduction to this amazing project of mine.
 ### Built With
 
 * [Android Studio](https://developer.android.com/studio)
-* [Technology Name](path/to/technology/website)
-* [Technology Name](path/to/technology/website)
-
+* [Kotlin](https://kotlinlang.org/)
 <!-- GETTING STARTED -->
 <!-- Make sure to add appropriate information about what prerequesite technologies the user would need and also the steps to install your project on their own mashines -->
 ## Getting Started
@@ -90,7 +89,7 @@ The following instructions will get you a copy of the project up and running on 
 
 ### Prerequisites
 
-Ensure that you have the latest version of [Software](path/to/where/they/can/download/software) installed on your machine. The [Plugin](path/to/where/they/can/download/plugin) plugin will also be required.
+Ensure that you have the latest version of [Squeezy](C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Assets\App Apk) installed on your machine. The [Plugin](path/to/where/they/can/download/plugin) plugin will also be required.
 
 ### How to install
 
@@ -99,12 +98,12 @@ Here are a couple of ways to clone this repo:
 
 1. Software </br>
 `Android Studio` -> `File` -> `New` -> `From Version Control` -> `Git`</br>
-Enter `https://github.com/username/projectname.git` into the URL field and press the `Clone` button.
+Enter `https://github.com/NicolaasGeldenhuys/Queezy-v3.0.git` into the URL field and press the `Clone` button.
 
 2. Clone Repository </br>
 Run the following in the command-line to clone the project:
    ```sh
-   git clone https://github.com/username/projectname.git
+   git clone https://github.com/NicolaasGeldenhuys/Squeezy-v3.0.git
    ```
     Open `Software` and select `File | Open...` from the menu. Select cloned directory and press `Open` button
 
@@ -114,7 +113,7 @@ Run the following in the command-line to install all the required dependencies:
    npm install
    ```
 
-4. Get a free API Key at [https://example.com](https://example.com) and enter it in the `config.js` file:
+4. Get a free API Key at [https://example.com.Squeezy](https://example.com.Squeezy) and enter it in the `config.js` file:
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -124,20 +123,20 @@ Run the following in the command-line to install all the required dependencies:
 <!-- You can add the links to all of your imagery at the bottom of the file as references -->
 ## Features and Functionality
 
-![image2][image2]
+![image2][C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_1.png]
 ### Feature 1
 
-Description of Feature
+Multiple Categories with different context.
 
 ![image3][image3]
 ### Feature 2
 
-Description of Feature
+See previous user's score and keep track of your own!
 
 ![image4][image4]
 ### Feature 3
 
-Description of Feature
+Reset your highscores and make sure you get full marks!
 
 ![image5][image5]
 
@@ -182,8 +181,8 @@ The `Development Process` is the technical implementations and functionality don
 
 #### Challenges
 <!-- stipulated the challenges you faced with the project and why you think you faced it or how you think you'll solve it (if not solved) -->
-* Bugs.
-* Bugs.
+* Icons that were being overriden by a bug in the IDE.
+* Certain elements dissapearing in the APK file.
 
 ### Reviews & Testing
 <!-- stipulate how you've conducted testing in the form of peer reviews, feedback and also functionality testing, like unit tests (if applicable) -->
@@ -192,21 +191,21 @@ The `Development Process` is the technical implementations and functionality don
 
 `Peer Reviews` were conducted by my fellow students and lecturer. The following feedback I found useful:
 
-* Feedback one.
-* Feedback two.
+* Make the question buttons bigger.
+* Have consistency between elements.
 
 #### Unit Tests
 
 `Unit Tests` were conducted to establish working functionality. Here are all the tests that were ran:
 
-* Test 1 of this functionality
-* Test 2 of this functionality
+* Good navigation, need to work more on productivity!
+* Got a lot more done in terms of functionality!
 
 ### Future Implementation
 <!-- stipulate functionality and improvements that can be implemented in the future. -->
 
-* Future 1.
-* Future 2.
+* Better leaderboard system.
+* Fixed overriden icons and add more questions/categories..
 
 <!-- MOCKUPS -->
 ## Final Outcome
@@ -227,7 +226,7 @@ To see a run through of the application, click below:
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/username/projectname/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/NicolaasGeldenhuys/s/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -243,7 +242,7 @@ Contributions are what makes the open-source community such an amazing place to 
 <!-- AUTHORS -->
 ## Authors
 
-* **Your Name & Surname** - [username](https://github.com/username)
+* **Nicolaas Geldenhuys** - [username](https://github.com/nicolaasgeldenhuys)
 
 <!-- LICENSE -->
 ## License
@@ -267,10 +266,10 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[image1]: /path/to/image.png
-[image2]: /path/to/image.png
-[image3]: /path/to/image.png
-[image4]: /path/to/image.png
+[image1]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_1.png
+[image2]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_4.png
+[image3]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_2.png
+[image4]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_3.png
 [image5]: /path/to/image.png
 [image6]: /path/to/image.png
 [image7]: /path/to/image.png
@@ -281,8 +280,10 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 <!-- Refer to https://shields.io/ for more information and options about the shield links at the top of the ReadMe file -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/nameonlinkedin/
+[linkedin-url]: https://www.linkedin.com/in/nameonlinkedin/neill-geldenhuys-8619b7233
 [instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&colorB=555
-[instagram-url]: https://www.instagram.com/instagram_handle/
+[instagram-url]: https://www.instagram.com/instagram_handle/neillgeldenhuys
 [behance-shield]: https://img.shields.io/badge/-Behance-black.svg?style=flat-square&logo=behance&colorB=555
 [behance-url]: https://www.behance.net/name-on-behance/
+
+
