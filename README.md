@@ -2,7 +2,6 @@
 ![watchers](https://img.shields.io/github/watchers/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
 ![languages](https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
 ![code size](https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
-
 ![LinkedIn][linkedin-shield]][linkedin-url]
 ![Instagram][instagram-shield]][instagram-url]
 
