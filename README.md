@@ -266,10 +266,10 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[image1]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_1.png
-[image2]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_4.png
-[image3]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_2.png
-[image4]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_3.png
+[image1]: C:/Users/neill/Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_1.png
+[image2]: C:/Users/neill/Desktop/NicolaasGeldenhuys_21100407_Android203_Promotional_Material_4.png
+[image3]: C:/Users/neill/Desktop/NicolaasGeldenhuys_21100407_Android203_Promotional_Material_2.png
+[image4]: C:/Users/neill/Desktop/NicolaasGeldenhuys_21100407_Android203_Promotional_Material_3.png
 [image5]: /path/to/image.png
 [image6]: /path/to/image.png
 [image7]: /path/to/image.png
