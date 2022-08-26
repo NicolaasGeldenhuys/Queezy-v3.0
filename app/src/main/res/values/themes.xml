@@ -1,6 +1,8 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Theme.IRobot" parent="Theme.MaterialComponents.DayNight.NoActionBar"> //Make actionbar at the top dissapear
+    <style name="Theme.IRobot" parent="Theme.MaterialComponents.Light.NoActionBar"> //Make actionbar at the top dissapear
+
+
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/tint</item> //Change color of notification bar shade

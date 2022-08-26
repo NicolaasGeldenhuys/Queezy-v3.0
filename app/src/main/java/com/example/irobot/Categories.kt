@@ -60,6 +60,8 @@ class Categories : AppCompatActivity() {
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
         }
+
+        supportActionBar?.hide()
     }
 
 }
