@@ -14,7 +14,7 @@
 <p align="center">
 
   <a href="https://github.com/NicolaasGeldenhuys/Queezy-v3.0">
-    <img src="C:\Users\neill\Documents\GitHub\Lemon_Default.png" alt="Logo" width="140" height="140">
+    <img src="https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/Lemon_Default.png" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Squeezy</h3>
@@ -24,14 +24,13 @@
       <a href="https://github.com/NicolaasGeldenhuys/Queezy-v3.0"><strong>Explore the docs »</strong></a>
    <br />
    <br />
-   <a href="path/to/demonstration/video">View Demo</a>
+   <a href="https://drive.google.com/drive/folders/1hNYKpkvhI3R4o-p4rFvAK4_duCj3h4kF?usp=sharing">View Demo</a>
     ·
     <a href="https://github.com/NicolaasGeldenhuys/Queezy-v3.0/issues">Report Bug</a>
     ·
     <a href="https://github.com/NicolaasGeldenhuys/Queezy-v3.0/issues">Request Feature</a>
 </p>
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
 
 * [About the Project](#about-the-project)
   * [Project Description](#project-description)
@@ -87,7 +86,7 @@ The following instructions will get you a copy of the project up and running on 
 
 ### Prerequisites
 
-Ensure that you have the latest version of [Squeezy](https://drive.google.com/file/d/1TzRHoLd3U7Ljl10jp0sD4gwb6egn7Ax_/view?usp=sharing) installed on your machine. The [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLtXnalYPKA462mNMG3JzkWKuy4oEruVkWt0e6ptWFNIPmLXW3hryehoCAoAQAvD_BwE&gclsrc=aw.ds) plugin will also be required.
+Ensure that you have the latest version of [Squeezy](https://drive.google.com/file/d/1TzRHoLd3U7Ljl10jp0sD4gwb6egn7Ax_/view?usp=sharing) installed on your machine. [Android Studio](https://developer.android.com/studio?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLtXnalYPKA462mNMG3JzkWKuy4oEruVkWt0e6ptWFNIPmLXW3hryehoCAoAQAvD_BwE&gclsrc=aw.ds) will also be required.
 
 ### How to install
 
@@ -155,20 +154,19 @@ The `Development Process` is the technical implementations and functionality don
 ### Implementation Process
 <!-- stipulate all of the functionality you included in the project -->
 
-* Made use of both `functionality` to implement a specific feature.
-* `MVC/MVVM` design architecture implemented.
-* `Plugin` for this.
-* ETC.
+* For this project my entire application was based off of Kotlin through Android Studio. I made use of Android’s Material UI components in regards of my application’s look and feel and designed everything on Figma. Furthermore I tested the user flow as well as design principles’ effectivity through Figma’s prototyping tools.
 
 #### Highlights
 <!-- stipulated the highlight you experienced with the project -->
-* Sunshine.
-* Rainbows.
+The most important and most obvious learning with this module was programming an application for mobile and learning the functionality behind both the language as well as Android Studio as an IDE for apps! <br> I learned a lot from things ranging from device compatibility, to software compatibility as well as general cohesiveness between different pages as well as components. <br> I have become a lot more comfortable with the overall idea of development for Android and have had a lot of experience with planning accordingly throughout this term!pages as well as components.
 
 #### Challenges
 <!-- stipulated the challenges you faced with the project and why you think you faced it or how you think you'll solve it (if not solved) -->
-* Icons that were being overriden by a bug in the IDE.
-* Certain elements dissapearing in the APK file.
+By far the biggest challenge for me this term was getting back into development after not doing any programming work in the last year. As an XD student this was very informative and exactley the background experience I wanted to achieve!
+<br>
+Secondly, was learning a new language based a lot on Java, at first I really struggled finding my feet but I did really start understanding Kotlin in the last week and got back into the groove of programming!
+<br>
+Time management was as always a very concerning stress factor but I managed to do a proficient job given the timeframe!
 
 ### Reviews & Testing
 <!-- stipulate how you've conducted testing in the form of peer reviews, feedback and also functionality testing, like unit tests (if applicable) -->
@@ -207,7 +205,7 @@ The `Development Process` is the technical implementations and functionality don
 
 To see a run through of the application, click below:
 
-[View Demonstration](path/to/video/demonstration)
+[View Demonstration](https://drive.google.com/drive/u/1/folders/1hNYKpkvhI3R4o-p4rFvAK4_duCj3h4kF)
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -228,12 +226,12 @@ Contributions are what makes the open-source community such an amazing place to 
 <!-- AUTHORS -->
 ## Authors
 
-* **Nicolaas Geldenhuys** - [username](https://github.com/nicolaasgeldenhuys)
+* **Nicolaas Geldenhuys** - [Github - NicolaasGeldenhuys](https://github.com/nicolaasgeldenhuys)
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.\
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- LICENSE -->
 ## Contact
@@ -244,24 +242,24 @@ Distributed under the MIT License. See `LICENSE` for more information.\
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 <!-- all resources that you used and Acknowledgements here -->
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
-* [Resource Name](path/to/resource)
+* [Stack Overflow](https://stackoverflow.com/)
+* [App Icon Tutorial](https://www.youtube.com/watch?v=DQ8HDL-X9rM)
+* [GeeksForGeeks](https://www.geeksforgeeks.org/how-to-create-a-splash-screen-in-android-using-kotlin/)
+* [Snapdrop](https://snapdrop.net/)
+* [Figma](https://Figma.com/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [image1]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/Screenshot%201.jpg
-[image2]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/Screenshot%202.jpg
-[image3]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_2.png
-[image4]: C:\Users\neill\Desktop\NicolaasGeldenhuys_21100407_Android203_Promotional_Material_3.png
-[image5]: /path/to/image.png
-[image6]: /path/to/image.png
-[image7]: /path/to/image.png
-[image8]: /path/to/image.png
-[image9]: /path/to/image.png
-[image10]: /path/to/image.png
+[image2]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/NicolaasGeldenhuys_21100407_Android203_Promotional_Material_2.png
+[image3]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/categories.png
+[image4]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/result.png
+[image5]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/NicolaasGeldenhuys_21100407_Android203_Promotional_Material_3.png
+[image6]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/colour_palette.png
+[image7]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/themes%26categories.png
+[image8]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/wireframes.png
+[image9]: https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/NicolaasGeldenhuys_21100407_Android203_Promotional_Material_1.png
+[image10]:https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/NicolaasGeldenhuys_21100407_Android203_Promotional_Material_5.png
 
 
 <!-- Refer to https://shields.io/ for more information and options about the shield links at the top of the ReadMe file -->
