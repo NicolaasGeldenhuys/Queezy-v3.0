@@ -134,7 +134,6 @@ The `Conceptual Process` is the set of actions, activities and research that was
 
 ### Ideation
 
-![image5][image5]
 <br>
 ![image6][image6]
 
