@@ -1,9 +1,10 @@
 <br />
 
-![GitHub repo size](https://img.shields.io/github/repo-size/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)
-![GitHub watchers](https://img.shields.io/github/watchers/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)
-![GitHub language count](https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)
+![GitHub repo size](https://img.shields.io/github/repo-size/NicolaasGeldenhuys/Queezy-v3.0?color=yellow)
+![GitHub watchers](https://img.shields.io/github/watchers/NicolaasGeldenhuys/Queezy-v3.0?color=yellow)
+![GitHub language count](https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-v3.0?color=yellow)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-v3.0?color=yellow)
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Instagram][instagram-shield]][instagram-url]
 
