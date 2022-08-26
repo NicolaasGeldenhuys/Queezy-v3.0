@@ -1,10 +1,13 @@
-[![repo size](https://img.shields.io/github/repo-size/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)]
-[![watchers](https://img.shields.io/github/watchers/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)]
-[![language count](https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)]
-[![code size in bytes](https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Instagram][instagram-shield]][instagram-url]
+![repo size]:https://img.shields.io/github/repo-size/NicolaasGeldenhuys/Queezy-v3.0?color=%000000
+![watchers]:https://img.shields.io/github/watchers/NicolaasGeldenhuys/Queezy-v3.0?color=%000000
+![language count]:https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-v3.0?color=%000000
+![code size in bytes]:https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-v3.0?color=%000000
 
+![LinkedIn][linkedin-shield]][linkedin-url]
+![Instagram][instagram-shield]][instagram-url]
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/nameonlinkedin/neill-geldenhuys-8619b7233
 
 <!-- HEADER SECTION -->
 <h5 align="center" style="padding:0;margin:0;">Nicolaas Geldenhuys</h5>
