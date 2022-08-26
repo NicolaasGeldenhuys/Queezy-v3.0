@@ -1,9 +1,11 @@
-![repo size](https://img.shields.io/github/repo-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
-![watchers](https://img.shields.io/github/watchers/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
-![languages](https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
-![code size](https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-V3.0?color=%000000)
-![LinkedIn][linkedin-shield][linkedin-url]
-![Instagram][instagram-shield][instagram-url]
+<br />
+
+![GitHub repo size](https://img.shields.io/github/repo-size/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)
+![GitHub watchers](https://img.shields.io/github/watchers/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)
+![GitHub language count](https://img.shields.io/github/languages/count/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/NicolaasGeldenhuys/Queezy-v3.0?color=%000000)
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Instagram][instagram-shield]][instagram-url]
 
 <!-- HEADER SECTION -->
 <h5 align="center" style="padding:0;margin:0;">Nicolaas Geldenhuys</h5>
