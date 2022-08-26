@@ -16,7 +16,7 @@
 <p align="center">
 
   <a href="https://github.com/NicolaasGeldenhuys/Queezy-v3.0">
-    <img src="https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/FG.png" alt="Logo" width="140" height="140">
+    <img src="https://github.com/NicolaasGeldenhuys/Queezy-v3.0/blob/main/FG2.png" alt="Logo" width="140" height="140">
   </a>
   
   <h3 align="center">Squeezy</h3>
